@@ -1,4 +1,4 @@
-# Amazon Ecommerce Apach Airflow ETL
+# Amazon Ecommerce Apache Airflow ETL
 The current implementation performs transformations to raw data in Apache Airflow via the creation of temporary datasets between transformations.
 There multiples ways to do it:
 - Cross communications XComs (small data scenario due to size and serialization limitations)
